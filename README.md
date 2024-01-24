@@ -1,7 +1,4 @@
-# expense_manager2
-
-A new Flutter project.
-
+# ExpenseEase
 ## Getting Started
 
 This project is a starting point for a Flutter application.
